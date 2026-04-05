@@ -1,0 +1,1 @@
+I built a GenAI tool that converts unstructured meeting notes into structured business outputs such as summaries, actions, owners, and priorities.
